@@ -1,128 +1,127 @@
- <div align="center">
 
-# Kohinoor Tiwari
+<div align="center">
 
-**Software Engineering · Backend Development · Problem Solving**
+# Hi, I'm Kohinoor Tiwari 👋
 
-Computer Science undergraduate at GLA University, building practical applications and exploring how reliable, scalable software systems work.
+### Software Engineer in the Making | Backend Development | Distributed Systems | Android Development
 
-[Portfolio](https://tkohinoor.github.io/portfolio-kohinoor-tiwari/) · [LinkedIn](https://www.linkedin.com/in/kohinoortiwari/) · [Repositories](https://github.com/tKohinoor?tab=repositories)
+Computer Science undergraduate at **GLA University**, passionate about building practical software, designing reliable backend systems, and exploring mobile application development.
+
+[Portfolio](https://tkohinoor.github.io/portfolio-kohinoor-tiwari/) · [LinkedIn](https://www.linkedin.com/in/kohinoortiwari/) · [All Repositories](https://github.com/tKohinoor?tab=repositories)
+
+![Profile Views](https://komarev.com/ghpvc/?username=tKohinoor&style=flat-square&color=blue)
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
 - 🎓 Pursuing B.Tech in Computer Science at **GLA University, Mathura**.
 - 💻 Interested in software engineering, backend development, and system design.
-- 🧠 Strengthening fundamentals in **DSA, OOP, DBMS, and Operating Systems**.
-- 🛠️ Explore ideas by building projects, debugging problems, and iterating on solutions.
+- 📱 Exploring Android development and mobile application architecture.
+- 🧠 Strengthening my fundamentals in Data Structures & Algorithms, OOP, DBMS, and Operating Systems.
+- ⚙️ Exploring distributed systems, data engineering, APIs, and scalable application design.
+- 🛠️ Learning by building projects and solving real-world engineering challenges.
 - 🌐 Founded **While(True)**, a student tech community focused on coding, technical events, and collaborative learning.
 
-## Tech Stack
+My goal is to build software that is not only functional, but also maintainable, reliable, and useful.
 
-**Languages**
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
+### Languages
 
-**Web Development & Databases**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+### Web Development & Databases
 
-**Tools & Libraries**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
-</p>
+### Tools & Libraries
 
-## Featured Projects
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/tKohinoor/apmcs">APMCS</a></h3>
-      <strong>MERN Stack · Socket.IO</strong>
-      <p>An Agile Project Management & Collaboration System for managing projects, sprint backlogs, Kanban boards, team roles, real-time collaboration, notifications, and progress analytics.</p>
-      <a href="https://apmcs-swart.vercel.app">Live Demo</a> · <a href="https://github.com/tKohinoor/apmcs">Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/tKohinoor/distributed-lock-manager">Distributed Lock Manager</a></h3>
-      <strong>Node.js · Express · MongoDB · React</strong>
-      <p>A distributed resource coordination system featuring lock leases, expiration, conflict handling, deadlock detection and resolution, and an administrative monitoring dashboard.</p>
-      <a href="https://github.com/tKohinoor/distributed-lock-manager">View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/tKohinoor/sales-analytics-pipeline">Sales Analytics Pipeline</a></h3>
-      <strong>Python · Pandas · Data Visualization</strong>
-      <p>An end-to-end data analysis workflow that generates sample sales data, cleans inconsistent records, calculates business KPIs, and produces charts and summary reports.</p>
-      <a href="https://github.com/tKohinoor/sales-analytics-pipeline">View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/tKohinoor/akshar">Akshar</a></h3>
-      <strong>React · Vite · Capacitor</strong>
-      <p>A React-based application project with a web frontend and Android platform integration.</p>
-      <a href="https://github.com/tKohinoor/akshar">View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/tKohinoor/daily-journal">Daily Journal</a></h3>
-      <strong>HTML · CSS · JavaScript</strong>
-      <p>A lightweight browser-based journaling application for writing and saving daily entries, built while learning frontend development.</p>
-      <a href="https://github.com/tKohinoor/daily-journal">Repository</a> · <a href="https://tkohinoor.github.io/daily-journal/">Live Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Currently Exploring</h3>
-      <p>Backend engineering, distributed systems, data processing, and practical approaches to building maintainable software.</p>
-      <a href="https://github.com/tKohinoor?tab=repositories">Explore All Projects →</a>
-    </td>
-  </tr>
-</table>
+## 💻 Featured Projects
 
-## Community & Leadership
+A selection of projects covering backend engineering, distributed systems, Android development, data analytics, and web applications.
+
+### ⚙️ Backend & Systems
+
+| Project | Description | Repository |
+|---|---|---|
+| **Distributed Lock Manager** | A system focused on distributed resource coordination, lock management, and concurrency. | [View Project](https://github.com/tKohinoor/distributed-lock-manager) |
+| **APMCS** | Agile Project Management & Collaboration System featuring sprint backlogs, Kanban boards, team roles, collaboration, notifications, and analytics. | [View Project](https://github.com/tKohinoor/apmcs) |
+| **URL Shortener** | A web application for converting long URLs into shorter, shareable links. | [View Project](https://github.com/tKohinoor/url-shortener) |
+
+### 📱 Android & Mobile Development
+
+| Project | Description | Repository |
+|---|---|---|
+| **Akshar** | An Android-development-focused project exploring mobile application development and the Android ecosystem. | [View Project](https://github.com/tKohinoor/akshar) |
+
+### 🌐 Web Applications
+
+| Project | Description | Repository |
+|---|---|---|
+| **Weather App** | A weather application for exploring weather information through a web interface. | [View Project](https://github.com/tKohinoor/weather-app) |
+| **Developer Portfolio** | My personal portfolio showcasing my profile, skills, projects, and development journey. | [Repository](https://github.com/tKohinoor/portfolio-kohinoor-tiwari) · [Live Website](https://tkohinoor.github.io/portfolio-kohinoor-tiwari/) |
+| **Daily Journal** | A journaling application for writing and managing daily entries. | [View Project](https://github.com/tKohinoor/daily-journal) |
+
+### 📊 Data Engineering & Analytics
+
+| Project | Description | Repository |
+|---|---|---|
+| **Sales Analytics Pipeline** | A data workflow focused on processing sales data, calculating business KPIs, and generating analytical reports. | [View Project](https://github.com/tKohinoor/sales-analytics-pipeline) |
+
+**Explore all my work:** [GitHub Repositories →](https://github.com/tKohinoor?tab=repositories)
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tKohinoor&show_icons=true&hide_border=true&theme=transparent" alt="Kohinoor's GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tKohinoor&layout=compact&hide_border=true&theme=transparent" alt="Most-used programming languages" />
+
+<img src="https://streak-stats.demolab.com?user=tKohinoor&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+
+</div>
+
+## 🤝 Community & Leadership
 
 ### While(True)
 
-Founded and lead a student tech community at GLA University, organizing coding initiatives and technical events while encouraging peer learning and student participation in technology.
+Founded and lead a student tech community at GLA University, encouraging collaborative learning, coding initiatives, and participation in technical events.
 
 ### Society of Automation · GLA University
 
 Engaged with the university's technical ecosystem alongside academic work, software development, and community initiatives.
 
-## GitHub Statistics
+## 📫 Connect With Me
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tKohinoor&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tKohinoor&layout=compact&hide_border=true&theme=transparent" alt="Most-used programming languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tKohinoor&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
-</div>
+- 💼 **LinkedIn:** [linkedin.com/in/kohinoortiwari](https://www.linkedin.com/in/kohinoortiwari/)
+- 🌐 **Portfolio:** [tkohinoor.github.io/portfolio-kohinoor-tiwari](https://tkohinoor.github.io/portfolio-kohinoor-tiwari/)
+- 🐙 **GitHub:** [github.com/tKohinoor](https://github.com/tKohinoor)
+- 📂 **All Projects:** [Browse my repositories](https://github.com/tKohinoor?tab=repositories)
 
 ---
 
 <div align="center">
 
-*Build. Break. Learn. Repeat.*
+### *Build. Break. Learn. Repeat.* 🚀
+
+Thanks for visiting my profile!
 
 </div>
