@@ -9,8 +9,6 @@ Computer Science undergraduate at **GLA University**, passionate about building 
 
 [Portfolio](https://tkohinoor.github.io/portfolio-kohinoor-tiwari/) · [LinkedIn](https://www.linkedin.com/in/kohinoortiwari/) · [All Repositories](https://github.com/tKohinoor?tab=repositories)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tKohinoor&style=flat-square&color=blue)
-
 </div>
 
 ---
